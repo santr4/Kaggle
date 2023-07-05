@@ -7,3 +7,4 @@
             
             - Dogs-vs-Cats classification.
       
+            - Imdb reviews(Sentiment analysis)
